@@ -1,0 +1,2 @@
+- name: Create docs directory
+  run: mkdir -p ${{ github.workspace }}/docs
