@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let audioContext, analyser, source, dataArray, bufferLength;
 
     // Definir la ruta base correcta
-    const basePath = "Audio/Categoría/";
+    const basePath = "";
 
     // Configurar rutas de canciones
     const songs = {
